@@ -95,13 +95,6 @@ well as knowledge of the user's passcode.
 
 No.
 
-## References
-Engelke, Lucas. [go-whatsapp](https://github.com/Rhymen/go-whatsapp)
+## Regards ~ AVIYT
 
-Graham, Robert. [How to decrypt WhatsApp end-to-end media files](https://blog.erratasec.com/2020/01/how-to-decrypt-whatsapp-end-to-end.html)
-
-Marczak, Bill. "[Some Directions for Further Investigation in the Bezos Hack Case](https://medium.com/@billmarczak/bezos-hack-mbs-mohammed-bin-salman-whatsapp-218e1b4e1242)"
-
-Sigalor. [WhatsApp Web Reverse Engineered](https://github.com/sigalor/whatsapp-web-reveng)
-
-WhatsApp. [WhatsApp Encryption Overview](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf)
+Telegram:- https://t.me/AVIHACKERYT
